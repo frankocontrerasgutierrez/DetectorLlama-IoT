@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189176797250",
+    "firebase_url": "https://detectorllama-e221d-default-rtdb.firebaseio.com",
+    "project_id": "detectorllama-e221d",
+    "storage_bucket": "detectorllama-e221d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189176797250:android:2cfb4016dca1a828f535db",
+        "android_client_info": {
+          "package_name": "com.franco.detectorllama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189176797250-5hht21dbsc4ht3bg3i4pbpnkasqu9b6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAsOgU21QeCBh7f4U8k2vkFj10X9xMrL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189176797250-5hht21dbsc4ht3bg3i4pbpnkasqu9b6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
